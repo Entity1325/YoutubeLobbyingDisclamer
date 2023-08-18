@@ -1,0 +1,27 @@
+#box {
+    float: inline-start;
+    width: 90%;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#proptext {
+    font-size: 1.5em;
+}
+
+box {
+    text-align: center;
+    height: 100px;
+    width: 1000px;
+    font-size: 1.5em;
+    line-height: 2.5;
+}
+
+box span {
+    background-color: darkred;
+    border-radius: 10px;
+    width: 100px;
+    padding: 15px;
+}
